@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1572461535 source:c:\users\cristi\desktop\codeblocks\tema1poo v6\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	"Complex.h"
+
+1572460558 source:c:\users\cristi\desktop\codeblocks\tema1poo v6\complex.cpp
+	"Complex.h"
+	<istream>
+	<ostream>
+	<cmath>
+
+1572459747 c:\users\cristi\desktop\codeblocks\tema1poo v6\complex.h
+	<iostream>
+
