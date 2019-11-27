@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1574519409 source:c:\users\cristi\desktop\codeblocks\poo2v2\main.cpp
+	<iostream>
+	<ostream>
+	"object.h"
+	<vector>
+
+1574519562 c:\users\cristi\desktop\codeblocks\poo2v2\object.h
+	<iostream>
+	<vector>
+
+1574519556 source:c:\users\cristi\desktop\codeblocks\poo2v2\object.cpp
+	"object.h"
+	<istream>
+	<ostream>
+	<cmath>
+
+1574869656 source:c:\users\cristi\desktop\codeblocks\poo2\main.cpp
+	<iostream>
+	<ostream>
+	"object.h"
+	<vector>
+
+1574870361 c:\users\cristi\desktop\codeblocks\poo2\object.h
+	<iostream>
+	<vector>
+
+1574869354 source:c:\users\cristi\desktop\codeblocks\poo2\object.cpp
+	"object.h"
+	<istream>
+	<ostream>
+	<cmath>
+	<vector>
+
