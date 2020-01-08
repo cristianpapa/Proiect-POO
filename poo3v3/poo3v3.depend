@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1578510965 source:c:\users\cristi\desktop\codeblocks\poo3v3\main.cpp
+	<iostream>
+	<ostream>
+	"automobil.h"
+	<vector>
+	<set>
+	<iterator>
+
+1578510964 c:\users\cristi\desktop\codeblocks\poo3v3\automobil.h
+	<iostream>
+	<set>
+	<vector>
+
+1578501166 source:c:\users\cristi\desktop\codeblocks\poo3v3\automobil.cpp
+	"automobil.h"
+	<iostream>
+	<iterator>
+	<set>
+
